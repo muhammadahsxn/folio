@@ -42,7 +42,7 @@ export default function Home() {
                 Software Engineer & UI Designer
               </p>
 
-              <h1 className="mt-6 font-display text-[clamp(4rem,10vw,9rem)] font-bold leading-[0.8] tracking-[-0.075em]">
+              <h1 className="mt-6 font-display text-[clamp(3.5rem,8.5vw,8rem)] font-bold leading-[0.8] tracking-[-0.075em]">
                 Muhammad
                 <br />
                 <span className="text-[var(--muted)]">Ahsan.</span>
@@ -73,7 +73,7 @@ export default function Home() {
 
             {/* Profile Image */}
             <div className="lg:justify-self-end">
-              <div className="relative mx-auto aspect-[4/5] w-full overflow-hidden border border-[var(--foreground)]/20 bg-[#ded9d0] lg:min-h-[480px]">
+              <div className="relative mx-auto aspect-[4/5] w-full overflow-hidden border border-[var(--foreground)]/20 bg-[#ded9d0] lg:min-h-[460px]">
                 <Image
                   src="/images/profile.jpg"
                   alt="Muhammad Ahsan"
