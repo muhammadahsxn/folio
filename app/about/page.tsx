@@ -42,7 +42,7 @@ export default function AboutPage() {
           </p>
 
           <div className="mt-6 grid gap-10 lg:grid-cols-[1.2fr_0.8fr] lg:items-end">
-            <h1 className="font-display text-[clamp(4rem,10vw,9rem)] font-bold leading-[0.82] tracking-[-0.075em]">
+            <h1 className="font-display text-[clamp(3.5rem,8.5vw,8rem)] font-bold leading-[0.82] tracking-[-0.075em]">
               Muhammad
               <br />
               <span className="text-[var(--muted)]">Ahsan.</span>
